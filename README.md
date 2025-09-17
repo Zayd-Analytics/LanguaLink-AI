@@ -34,7 +34,7 @@ LinguaLink/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/LinguaLink.git
+ https://github.com/Zayd-Analytics/LanguaLink-AI/edit/main/README.md
    cd LinguaLink
 
 
